@@ -4,7 +4,7 @@ Welcome to my cozy little dorm. There are few things here to check out, but just
 
 - 🏢 Student from Indonesia
 - ☕ Doesn't really like the drink in this emoji
-- 🗒️ More information/showcases available at [pixelsam123.github.io](pixelsam123.github.io)
+- 🗒️ More information/showcases available at [pixelsam123.github.io](https://pixelsam123.github.io)
 
 ## 🔧 I'm ready to work with...
 
