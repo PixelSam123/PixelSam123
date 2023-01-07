@@ -13,3 +13,7 @@ Welcome to my cozy little dorm. There are few things here to check out, but just
 ## 💻 OSes I tinker with...
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+
+## 🌏 Socials
+
+Talk with me on [Discord!](https://discord.gg/EbHRNrvXqm)
