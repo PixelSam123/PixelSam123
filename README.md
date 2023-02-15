@@ -1,5 +1,7 @@
 # 👋 Hi!
 
+![](https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwDC26ATLR2ahqtY5RMUXicU)
+
 Welcome to my cozy little dorm. There are few things here to check out, but just make sure you've picked up something to drink beforehand from the refrigerator.
 
 - 🏢 Student from Indonesia
