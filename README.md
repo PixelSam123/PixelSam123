@@ -1,6 +1,7 @@
 # 👋 Hi!
-
-![](https://media.tenor.com/sctHwUM5YrMAAAAd/bocchi-the-rock-ikuyo-kita.gif)
+<p align="center">
+  <img src="https://media.tenor.com/sctHwUM5YrMAAAAd/bocchi-the-rock-ikuyo-kita.gif">
+</p>
 
 Welcome to my cozy little dorm. There are few things here to check out, but just make sure you've picked up something to drink beforehand from the refrigerator.
 
