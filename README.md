@@ -1,6 +1,6 @@
 # 👋 Hi!
 <p align="center" width="100%">
-  <img width="100%" src="https://media.tenor.com/o-0LaJK3qWcAAAAC/yamada-ryou-yamada-ryo.gif" alt="BTR Ryo Yamada">
+  <img width="100%" src="https://media.tenor.com/sctHwUM5YrMAAAAd/bocchi-the-rock-ikuyo-kita.gif" alt="BTR Ikuyo Kita">
 </p>
 
 Welcome to my cozy little dorm. There are few things here to check out, but just make sure you've picked up something to drink beforehand from the refrigerator.
