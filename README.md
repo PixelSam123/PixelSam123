@@ -6,6 +6,7 @@
 Welcome to my cozy little dorm. There are few things here to check out, but just make sure you've picked up something to drink beforehand from the refrigerator.
 
 - ☕ Doesn't really like the drink in this emoji
+- ⛏️ Minecraft is my favorite game!
 - 🗒️ More information/showcases available at [pixelsam123.github.io](https://pixelsam123.github.io)
 
 [![Codewars](https://www.codewars.com/users/PixelSam123/badges/small)](https://www.codewars.com/users/PixelSam123)
