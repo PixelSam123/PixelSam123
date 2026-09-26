@@ -4,7 +4,7 @@
 
 ## 🌏 Socials
 
-- [GitHub Pages Site](https://pixelsam123.github.io)
+- [PixelSam's Works Page](https://pixelsam.id)
 - [Modrinth User Page](https://modrinth.com/user/PixelSam123)
 - [YouTube](https://www.youtube.com/@pixelsam123)
 - [PixelSam's Works Discord](https://discord.gg/S4NhfuWrf4)
